@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Questrial:400);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -21,28 +21,28 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-2 {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-4 {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 0.8rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.28rem;
 }
 .display-5 {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
 }
 .display-5 > .mbr-iconfont {
